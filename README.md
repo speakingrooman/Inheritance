@@ -1,0 +1,2 @@
+# Inheritance
+c++ inheritance class
