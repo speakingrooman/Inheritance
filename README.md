@@ -1,2 +1,3 @@
 # Inheritance
-c++ inheritance class
+##Account Inheritance hierarchy
+C++ classes with inheritance
